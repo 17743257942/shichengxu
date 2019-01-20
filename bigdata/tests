@@ -43,3 +43,7 @@ print('sss,'+str(33))
 sth=None
 print(str(sth))
 
+v='asdf,asd,sss,ee'
+print(v.split(","))
+
+
