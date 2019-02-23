@@ -12,7 +12,7 @@ PORT = 3306
 TABLE1 = "parent_child_relation"
 TABLE2 = "parent_child_relation_all"
 
-
+7
 def get_all_data(data_dict):
     db = pymysql.connect(host=DB_ADDRESS, user=USER,
                          password=PASSWORD, db=DB_NAME, port=PORT)
