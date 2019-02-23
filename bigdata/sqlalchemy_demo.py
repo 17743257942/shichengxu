@@ -65,8 +65,8 @@ session.close()
 
 if __name__ =="__main__":
     # insert()
-    inserts()
-    # query()
+    # inserts()
+    query()
     # delete()
     # update()
 
